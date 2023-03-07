@@ -1,0 +1,1 @@
+let last_delim = my_string.lastIndexOf(DELIM); // o my_string.lastIndexOf('\n');
